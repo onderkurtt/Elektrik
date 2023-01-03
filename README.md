@@ -1,0 +1,2 @@
+# Elektrik
+Ekipman tanıma
