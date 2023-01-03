@@ -1,2 +1,2 @@
-# Elektrik
-Ekipman tanıma
+# yoloelektrik.md
+oku 
