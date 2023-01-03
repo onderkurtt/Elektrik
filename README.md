@@ -1,2 +1,0 @@
-# yoloelektrik.md
-oku 
