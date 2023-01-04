@@ -1,4 +1,5 @@
-﻿|<p>İlk olarak Yolov7’ninmdökümanlarına ulaşmamız gerekmektedir. Aşağıdaki git adresi üzerinden dosyaların colab ortamına aktarmayı sağlıyoruz. </p><p></p><p>%cd                                 ----------------------- ile yolov7 klasörü içine giriyoruz</p><p>!pip install -r requirements.txt ------------ ile çalıştırmak için gerekli araçları colab ortamına yüklüyoruz</p><p></p>|
+#Bu çalışmada nesne takibi ile tesislerde kullanılan elektrik ekipmanlarının detection işlemini yaptık
+|<p>İlk olarak Yolov7’ninmdökümanlarına ulaşmamız gerekmektedir. Aşağıdaki git adresi üzerinden dosyaların colab ortamına aktarmayı sağlıyoruz. </p><p></p><p>%cd                                 ----------------------- ile yolov7 klasörü içine giriyoruz</p><p>!pip install -r requirements.txt ------------ ile çalıştırmak için gerekli araçları colab ortamına yüklüyoruz</p><p></p>|
 | :- |
 
 |<p>!git clone https://github.com/WongKinYiu/yolov7.git</p><p>%cd yolov7</p><p>!pip install -r requirements.txt</p>|
